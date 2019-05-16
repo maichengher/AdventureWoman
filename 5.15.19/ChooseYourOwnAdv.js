@@ -78,5 +78,7 @@ switch (egg){
     console.log('Be brave');
 }
 
+// go home
+
 var home='Teleporting home. Thank you '+ Wonderwoman +'.';
 console.log(home);
